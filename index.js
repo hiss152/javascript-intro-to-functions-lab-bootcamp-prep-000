@@ -40,7 +40,7 @@ console.log(string.toLowerCase())
 
 function sayHiToGrandma(string) {
 
-  if (string === string.toLowerCase() { 
+  if (string === string.toLowerCase() {
 
   return "I can't hear you!"
 }
@@ -60,5 +60,3 @@ function sayHiToGrandma(string) {
 return "I love you, too."
 
 }
-
-
