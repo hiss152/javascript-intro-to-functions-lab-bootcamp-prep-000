@@ -40,14 +40,14 @@ console.log(string.toLowerCase())
 
 function sayHiToGrandma(string) {
 
-  if (string === string.toLowerCase())
+  if (string.toLowerCase() === string
 
   return "I can't hear you!"
 }
 
 function sayHiToGrandma(string) {
 
-  if (string === string.toUpperCase())
+  if (string.toUpperCase() === string())
 
 return "YES INDEED!"
 
